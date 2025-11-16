@@ -1,6 +1,11 @@
 ### First release of the Nintendont Gabecube animation theme
 Full animation and stereo sound on game boot! This should be fully compatible with USBLoaderGX, but this was not tested.
 To get the full GabeCube experience, just replace Nintendont's boot.dol with this updated version. Make sure that Skip IPL is disabled in Nintendont and no GameCube Bios is on the SD card (it will conflict with this animation). All credits go to [DentureTaco](https://www.reddit.com/user/DentureTaco/) and the excellent Gabecube animation. https://www.reddit.com/r/pcmasterrace/comments/1ow3aba/steam_machine_startup_animation/
+This Nintendont mod is an unofficial port of this animation.
+
+
+
+https://github.com/user-attachments/assets/fb1b16cc-ec08-456e-81ed-599c2931c1d0
 
 
 
